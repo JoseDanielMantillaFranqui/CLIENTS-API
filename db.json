@@ -1,0 +1,16 @@
+{
+    "perfil": [
+      {
+        "nombre": "Gabriela",
+        "email": "gabriela@alura.coam",
+        "img": "https://media.istockphoto.com/id/1386866399/es/foto/joven-empresaria-cauc%C3%A1sica-segura-de-s%C3%AD-misma-aut%C3%B3noma-ceo-jefe-gerente-empleado-del-banco-en.jpg?s=612x612&w=0&k=20&c=-6xFJm0WQ9aY76Tr1cxvvCatDtCjkpCFxSRoTuef3BQ=",
+        "id": 2
+      },
+      {
+        "nombre": "Pecos Bill",
+        "email": "pecosgg@gmail.com",
+        "img": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/06/01/16856207780861.jpg",
+        "id": "941c66e2-1aac-4630-bf6f-abe01fb9467b"
+      }
+    ]
+  }
